@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🐋, I'm Marvella</h1>
+<h1 align="center">Hi, I'm Marvella</h1>
 
 <h3 align="center">Data Analytics & Machine Learning</h3>
 
@@ -12,22 +12,22 @@ Building data-driven solutions with curiosity, care, and a soft spot for the oce
 
 <h2 align="center">🚀 About Me</h2>
 
-**Marvella**, here — a Computer Science undergraduate specializing in Data Analytics at Asia Pacific University of Technology and Innovation.
+Computer Science undergraduate specializing in Data Analytics at Asia Pacific University of Technology and Innovation, with hands-on experience across machine learning, NLP, and data-driven marketing analytics.
 
-I enjoy turning raw, messy data into pipelines, predictive models, and dashboards that people actually use — and I'm endlessly curious about where that skill can go next, from marketing analytics to NLP to, most recently, veterinary science.
+I build end-to-end data solutions, from raw data pipelines to predictive models and dashboards with a focus on delivering insights that are actually used, not just produced.
 
-My favorite project so far fine-tuned a language model to read veterinary symptom notes, because it let two things I care about — animals and machine learning — sit in the same sentence.
+My project work spans applied NLP for veterinary diagnostics, fraud detection in e-commerce reviews, and workflow automation, reflecting a consistent interest in applying data science to varied, real-world problems.
 
-Currently automating scheduling and recordkeeping as Chief of Library Assistant Management Team, supporting a team of 20+.
+Currently serving as Chief of Library Assistant Management Team, leading automation of scheduling and recordkeeping systems for a team of 20+.
 
 <h2 align="center">🤝 Connect</h2>
 
 <p align="center">
-  <a href="https://github.com/REPLACE_WITH_GITHUB_USERNAME">
+  <a href="https://github.com/mar-velika">
     <img src="https://skillicons.dev/icons?i=github" height="45" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/REPLACE_WITH_LINKEDIN_USERNAME">
+  <a href="https://www.linkedin.com/in/marvella-va/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -62,20 +62,20 @@ Currently automating scheduling and recordkeeping as Chief of Library Assistant 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=REPLACE_WITH_GITHUB_USERNAME&theme=dark&hide_border=true&border_radius=5&background=0D1117&ring=6A6A6A&fire=E8E8E8&currStreakNum=E8E8E8&sideNums=B0B0B0&currStreakLabel=E8E8E8&sideLabels=8A8A8A&dates=8A8A8A" height="150"/>
+<img src="https://streak-stats.demolab.com?user=mar-velika&theme=dark&hide_border=true&border_radius=5&background=0D1117&ring=6A6A6A&fire=E8E8E8&currStreakNum=E8E8E8&sideNums=B0B0B0&currStreakLabel=E8E8E8&sideLabels=8A8A8A&dates=8A8A8A" height="150"/>
 
 </div>
 
 <h2 align="center">📈 Activity Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=REPLACE_WITH_GITHUB_USERNAME&bg_color=0D1117&color=C9C9C9&line=6A6A6A&point=E8E8E8&area=true&hide_border=true&radius=16" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mar-velika&bg_color=0D1117&color=C9C9C9&line=6A6A6A&point=E8E8E8&area=true&hide_border=true&radius=16" alt="Activity Graph"/>
 </p>
 
 <h2 align="center">🐋 My Ocean</h2>
 
 <p align="center">
-  <img src="./assets/whale.svg" alt="A whale swimming through the ocean" width="100%"/>
+  <img src="whale.svg" alt="A whale swimming through the ocean" width="100%"/>
 </p>
 
 <p align="center">
