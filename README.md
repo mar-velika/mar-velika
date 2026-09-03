@@ -74,18 +74,16 @@ Currently serving as Chief of Library Assistant Management Team, leading automat
   />
 </p>
 
-<h2 align="center">📈 Activity Graph</h2>
+<h2 align="center">📌 Stats Overview</h2>
 
 <p align="center">
-  <a href="https://github.com/mar-velika">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=mar-velika&bg_color=0D1117&color=C9D1D9&line=6A6A6A&point=E8E8E8&area=true&hide_border=true&radius=16"
-      alt="Marvella's GitHub Activity Graph"
-    />
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mar-velika&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=E8E8E8&text_color=B0B0B0&icon_color=8A8A8A"
+    alt="Marvella's GitHub Stats"
+  />
 </p>
 
-<h2 align="center">🐋 My Ocean</h2>
+<h2 align="center">⌘ Commit Activity</h2>
 
 <p align="center">
   <img
@@ -102,11 +100,26 @@ Currently serving as Chief of Library Assistant Management Team, leading automat
   </sub>
 </p>
 
-<h2 align="center">⌘ Philosophy</h2>
+<h2 align="center">📁 Featured Projects</h2>
+
+<table align="center">
+  <tr>
+    <td><b>🐶 Veterinary Symptom NLP Model</b></td>
+    <td>Fine-tuned a BERT-family model on veterinary corpora to classify animal symptoms, using NER to extract clinically relevant patterns.</td>
+    <td><sub><code>Python</code> <code>PyTorch</code> <code>HuggingFace</code> <code>BERT</code> <code>NER</code></sub></td>
+  </tr>
+  <tr>
+    <td><b>📅 Library Staff Scheduling Automation</b></td>
+    <td>Excel VBA macro that auto-tallies shift hours and flags scheduling conflicts in real time, syncing live to Google Workspace.</td>
+    <td><sub><code>Excel VBA</code> <code>Google Apps Script</code></sub></td>
+  </tr>
+  <tr>
+    <td><b>🕵️ Fake Review Detection</b></td>
+    <td>End-to-end NLP pipeline classifying fraudulent product reviews with TF-IDF and Logistic Regression, tuned via 5-fold cross-validation.</td>
+    <td><sub><code>Python</code> <code>scikit-learn</code> <code>NLTK</code> <code>TF-IDF</code></sub></td>
+  </tr>
+</table>
 
 <p align="center">
-  <img
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
-    alt="Developer Quote"
-  />
+  <sub>See pinned repos above for source code and full write-ups.</sub>
 </p>
