@@ -74,32 +74,6 @@ Currently serving as Chief of Library Assistant Management Team, leading automat
   />
 </p>
 
-<h2 align="center">📌 Stats Overview</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=mar-velika&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=E8E8E8&text_color=B0B0B0&icon_color=8A8A8A"
-    alt="Marvella's GitHub Stats"
-  />
-</p>
-
-<h2 align="center">⌘ Commit Activity</h2>
-
-<p align="center">
-  <img
-    src="./whale.svg"
-    alt="A whale swimming through the ocean"
-    width="100%"
-  />
-</p>
-
-<p align="center">
-  <sub>
-    A little ocean-inspired take on the classic contribution-graph animations —
-    hand-built around a whale swimming through the dots.
-  </sub>
-</p>
-
 <h2 align="center">📁 Featured Projects</h2>
 
 <table align="center">
