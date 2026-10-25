@@ -74,17 +74,17 @@ Currently serving as Chief of Library Assistant Management Team, leading automat
 
 <table align="center">
   <tr>
-    <td><b>🐶 Veterinary Symptom NLP Model</b></td>
+    <td><b>Veterinary Symptom NLP Model</b></td>
     <td>Fine-tuned a BERT-family model on veterinary corpora to classify animal symptoms, using NER to extract clinically relevant patterns.</td>
     <td><sub><code>Python</code> <code>PyTorch</code> <code>HuggingFace</code> <code>BERT</code> <code>NER</code></sub></td>
   </tr>
   <tr>
-    <td><b>📅 Library Staff Scheduling Automation</b></td>
+    <td><b>Library Staff Scheduling Automation</b></td>
     <td>Excel VBA macro that auto-tallies shift hours and flags scheduling conflicts in real time, syncing live to Google Workspace.</td>
     <td><sub><code>Excel VBA</code> <code>Google Apps Script</code></sub></td>
   </tr>
   <tr>
-    <td><b>🕵️ Fake Review Detection</b></td>
+    <td><b>Fake Review Detection</b></td>
     <td>End-to-end NLP pipeline classifying fraudulent product reviews with TF-IDF and Logistic Regression, tuned via 5-fold cross-validation.</td>
     <td><sub><code>Python</code> <code>scikit-learn</code> <code>NLTK</code> <code>TF-IDF</code></sub></td>
   </tr>
