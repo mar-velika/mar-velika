@@ -2,7 +2,7 @@
 
 <h3 align="center">Data Analytics & Machine Learning</h3>
 
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center">About Me</h2>
 
 <p>
 Computer Science undergraduate specializing in Data Analytics at Asia Pacific University of Technology and Innovation, with hands-on experience across machine learning, NLP, and data-driven marketing analytics.
@@ -20,7 +20,7 @@ My project work spans applied NLP for veterinary diagnostics, fraud detection in
 Currently serving as Chief of Library Assistant Management Team, leading automation of scheduling and recordkeeping systems for a team of 20+.
 </p>
 
-<h2 align="center">🤝 Connect</h2>
+<h2 align="center">Connect</h2>
 
 <p align="center">
   <a href="https://github.com/mar-velika">
@@ -36,7 +36,7 @@ Currently serving as Chief of Library Assistant Management Team, leading automat
   </a>
 </p>
 
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,mysql,java,cpp,rust,js,html,css,git,github,figma,vscode" alt="Tech Stack" />
@@ -60,7 +60,7 @@ Currently serving as Chief of Library Assistant Management Team, leading automat
   </sub>
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
   <img
@@ -70,7 +70,7 @@ Currently serving as Chief of Library Assistant Management Team, leading automat
   />
 </p>
 
-<h2 align="center">📁 Featured Projects</h2>
+<h2 align="center">Featured Projects</h2>
 
 <table align="center">
   <tr>
