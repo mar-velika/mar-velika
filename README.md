@@ -2,10 +2,6 @@
 
 <h3 align="center">Data Analytics & Machine Learning</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=%2B+%3E+Exploring+Data+One+Dataset+At+A+Time;%3E+Curious+By+Default;%3E+Turning+Raw+Data+Into+Insight;%3E+Animal+Lover+%F0%9F%90%8B+Ocean+Enthusiast" alt="Typing SVG" />
-</p>
-
 <h2 align="center">🚀 About Me</h2>
 
 <p>
